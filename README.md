@@ -16,10 +16,15 @@ It avoids unnecessary recalculations and re-renders in a product listing applica
 
 ## 📂 Folder Structure
 src/
+
  ├── components/
+
  │    └── ProductList.jsx
+ 
  ├── App.jsx
+ 
  ├── index.js
+ 
  └── styles.css
 
 ## 🔄 Expected Outcome
